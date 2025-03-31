@@ -31,7 +31,7 @@ int main()
 	int Number7 = Number1 % Number2;
 	cout << Number7 << endl;
 
-
+	//주석추가
 	//형변환, Casting
 	float Number8 = (float)Number1 / (float)Number2;
 	cout << Number8 << endl;
